@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.csv": "Rainbow",
+        "xstring": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp"
+    }
+}
